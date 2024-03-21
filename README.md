@@ -1,5 +1,11 @@
 # BookStore-Management Application
 
+<h1>To Run the Application</h1>
+<ul>
+  <li>Install Docker Desktop</li>
+  <li>Run docker-compose up</li>
+</ul>
+
 # Technologies Used -
 •	Gorilla/mux<br>
 •	CRUD operations<br>
