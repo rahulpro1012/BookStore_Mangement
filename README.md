@@ -9,7 +9,7 @@
 •	Redis 
 
 # Working –
-•	The application uses session management as a middleware. 
+•	The application uses session management as a middleware.<br>
 •	Only the routes login and logout are middleware free and can be accessed by anyone.
 •	Other routes are checked for valid sessions which are only valid for certain time.  
 •	Gorilla mux is used to create routes for CRUD operations. 
